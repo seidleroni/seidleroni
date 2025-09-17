@@ -6,7 +6,7 @@ How to reach me: [Email me](mailto:seidmann@gmail.com)
 
 ---
 ### 📂 Portfolio
-- Hex Flex [(application)](https://seidleroni.github.io/Hex-Flex-Web/) [(source code)](https://seidleroni.github.io/Hex-Flex-Web/)
+- Hex Flex [(application)](https://seidleroni.github.io/Hex-Flex-Web/) [(source code)](https://github.com/seidleroni/Hex-Flex-Web)
     - This application is something I thought about doing for many many years. In embedded applications, I work with Intel Hex files all the time but the best way I as able to view files was to use Segger's J-Flash utility, which is fine. However I wanted a way to compare different hex files together. After working with ChatGPT and Gemini, I was able to put this application together which allows a user to view the contents of an Intel Hex file and also compare two different files. When viewing a file it also shows a map to provide an overview of where data segments are and which segments are blank or erased.
 - Pelohard [(site)](https://pelohard.com/)
     - I really love using my Peloton but found it annoying to find classes of appropriate difficulty. This project is comprised of two parts: the first is a Python script that uses my Peloton credentials and the undocumented Peloton REST API to get the 50 most recent rides and save them in a JSON file. The second part of the project takes the JSON file and renders the site using that information. The site sorts the rides by difficulty and allows a user to click on a site and then add it to their class "stack". The Python script automatically runs twice a day.

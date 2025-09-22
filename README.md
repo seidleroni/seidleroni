@@ -16,9 +16,9 @@ How to reach me: [Email me](mailto:seidmann@gmail.com)
     - I built this tool to help with a work task. I wanted the ability to calculate how long it would take a linear actuator to move a certain distance, given a maximum velocity, acceleration, and deceleration. It also graphs position and velocity over time to provide a clearer picture of what the motor is doing along the way.
 ---
 ### Patents
-- [Tissue Treatment System With Fluid Delivery Console](https://ppubs.uspto.gov/api/patents/html/20230346451?source=US-PGPUB&requestToken=eyJzdWIiOiI1NWMxZmJjMS00NzRmLTQwMjEtYmU0Ni03NWUyN2ZkZDgzNTUiLCJ2ZXIiOiI0Y2ZkNzIzMy1lM2NmLTRmMmUtYWUwMS05NjFkMDc0YzM2OGMiLCJleHAiOjB9)
-- [System and method for distribution of electrical power and control data in temporary lighting installations](https://ppubs.uspto.gov/api/patents/html/10079506?source=USPAT&requestToken=eyJzdWIiOiI1NWMxZmJjMS00NzRmLTQwMjEtYmU0Ni03NWUyN2ZkZDgzNTUiLCJ2ZXIiOiI0Y2ZkNzIzMy1lM2NmLTRmMmUtYWUwMS05NjFkMDc0YzM2OGMiLCJleHAiOjB9)
-- [Smooth dimming of solid state light source using calculated slew rate](https://ppubs.uspto.gov/api/patents/html/8975820?source=USPAT&requestToken=eyJzdWIiOiI1NWMxZmJjMS00NzRmLTQwMjEtYmU0Ni03NWUyN2ZkZDgzNTUiLCJ2ZXIiOiI0Y2ZkNzIzMy1lM2NmLTRmMmUtYWUwMS05NjFkMDc0YzM2OGMiLCJleHAiOjB9)
+- [Tissue Treatment System With Fluid Delivery Console](https://patents.google.com/patent/US20230346451A1/en?oq=20230346451)
+- [System and method for distribution of electrical power and control data in temporary lighting installations](https://patents.google.com/patent/US10079506B2/en?oq=10079506)
+- [Smooth dimming of solid state light source using calculated slew rate](https://patents.google.com/patent/US8975820B2/en?oq=8975820)
 ---
 <!--
 **seidleroni/seidleroni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

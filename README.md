@@ -28,7 +28,7 @@ Lately most of my evenings-and-weekends coding has been with my two boys (7 and 
     - A phone-friendly way to learn to read sheet music. It shows a beginner piece on the staff, plays it on a sampled piano at whatever tempo you want, and a cursor follows along so you know which note you should be playing. Tap a bar to loop it.
 - Grammar Quiz [(application)](https://seidleroni.github.io/GrammarGame/) [(source code)](https://github.com/seidleroni/GrammarGame)
     - Twenty parts-of-speech questions for a third grader, built in Blazor WebAssembly so it runs entirely in the browser.
-- Newton Math
+- Newton Math [(source code)](https://github.com/seidleroni/NewtonMACurriculumTester)
     - Daily math practice that follows the Newton, MA elementary curriculum, with a mastery and spaced-repetition scheduler so each kid gets the problems he actually needs. Everything is generated and graded by plain deterministic Python; no AI at runtime.
 ---
 ### Patents

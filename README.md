@@ -18,18 +18,18 @@ How to reach me: [Email me](mailto:seidmann@gmail.com)
     - I really love using my Peloton but found it annoying to find classes of appropriate difficulty. This site sorts rides by difficulty and allows users to click on a class and add it to their stack. The project has two parts: first, a Python script that uses my Peloton credentials and the unofficial Peloton REST API to get the 50 most recent rides and save the class information in a JSON file. The second part takes that JSON file and renders the site. The Python script and site automatically update twice a day.
 ---
 ### Built with my kids
-Lately most of my evenings-and-weekends coding has been with my two boys (7 and 9) and AI coding tools. They come up with the game or the thing they want to practice, we work out the rules together, and then we see how far we can push the tools to build it. They've learned that "make it more fun" is not a spec, and I've learned a lot about what these tools can and can't do. A few of the results:
+Most of my coding at home lately is with my two boys (7 and 9) and AI coding tools. They decide what to build, we work out the rules together, and then we see how far the tools can take it.
 
 - Fort Wars [(source code)](https://github.com/seidleroni/FortWarsLaneDefense)
-    - A silly, bright lane-defense game in pygame. You build a fort out of cannons, freezers, boomers and gold mines, then defend your Cookie Keep from waves of Grumbles that want to eat your cookies. This one was designed by committee, where the committee was 7 and 9 years old.
+    - A lane-defense game in pygame. You place towers and resource buildings to protect a base from waves of enemies, with upgrades between rounds. The theme, the unit names, and most of the balance decisions came from the kids.
 - Garden Guard [(source code)](https://github.com/seidleroni/PvZTurnBased)
-    - The turn-based answer to Fort Wars, for the kid who doesn't like timers. Plants-vs-Zombies-style lanes, but every move is shown before you end your turn, so you can think it through.
+    - A turn-based version of the same idea, for the kid who prefers to think over having to react. Enemies move down lanes one step per turn, and the board shows what each one will do next so you can plan around it.
 - Piano Sheet Music Reader [(application)](https://seidleroni.github.io/PianoSheetMusic/) [(source code)](https://github.com/seidleroni/PianoSheetMusic)
-    - A phone-friendly way to learn to read sheet music. It shows a beginner piece on the staff, plays it on a sampled piano at whatever tempo you want, and a cursor follows along so you know which note you should be playing. Tap a bar to loop it.
+    - A phone-friendly app for learning to read sheet music. It shows a beginner piece on the staff, plays it on a sampled piano at an adjustable tempo, and a cursor follows along so you know which note to play. You can tap a bar to loop it.
 - Grammar Quiz [(application)](https://seidleroni.github.io/GrammarGame/) [(source code)](https://github.com/seidleroni/GrammarGame)
     - Twenty parts-of-speech questions for a third grader, built in Blazor WebAssembly so it runs entirely in the browser.
 - Newton Math [(source code)](https://github.com/seidleroni/NewtonMACurriculumTester)
-    - Daily math practice that follows the Newton, MA elementary curriculum, with a mastery and spaced-repetition scheduler so each kid gets the problems he actually needs. Everything is generated and graded by plain deterministic Python; no AI at runtime.
+    - Daily math practice that follows the Newton, MA elementary curriculum, with a mastery and spaced-repetition scheduler so each kid gets the problems he actually needs. Problems are generated and graded by plain deterministic Python; no AI at runtime.
 ---
 ### Patents
 - [Tissue Treatment System With Fluid Delivery Console](https://patents.google.com/patent/US20230346451A1/en?oq=20230346451)
